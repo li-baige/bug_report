@@ -1,4 +1,4 @@
-Simple Inventory Management System v1.0 by oretnom23 has SQL injection
+# Simple Inventory Management System v1.0 by oretnom23 has SQL injection
 
 BUG_Author: li-baige
 
